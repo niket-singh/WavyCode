@@ -18,13 +18,10 @@ class ComplexityCalculator:
         return self.metrics
 
     def _calculate_cyclomatic_complexity(self, tree: ast.AST) -> float:
-        # Calculate cyclomatic complexity
         pass
 
     def _calculate_cognitive_complexity(self, tree: ast.AST) -> float:
-        # Calculate cognitive complexity
         pass
 
     def _calculate_halstead_metrics(self, tree: ast.AST) -> float:
-        # Calculate Halstead complexity metrics
         pass
