@@ -23,5 +23,4 @@ class CodeAnalyzer:
         return metrics
 
     def _analyze_structure(self, tree):
-        # Analyze code structure (nesting levels, function lengths, etc.)
         pass
